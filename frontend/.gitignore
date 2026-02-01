@@ -1,0 +1,13 @@
+# Ignore Frontend dependencies
+node_modules/
+dist/
+.env
+
+# Ignore Backend junk
+__pycache__/
+*.py[cod]
+venv/
+env/
+
+# Ignore System files
+.DS_Store
